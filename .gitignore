@@ -1,6 +1,11 @@
 # Compiled class file
 *.class
 
+### Settings Files 
+*.env
+*.properties
+*.yml
+
 # Log file
 *.log
 
